@@ -1,3 +1,1 @@
-# Inferno
-**A feature-rich multipurpose Discord bot coded in Discord.py**
-## Features
+# Source Code of Inferno, a Verified Discord Bot developed by me in 2020-21
